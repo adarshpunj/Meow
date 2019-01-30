@@ -21,6 +21,9 @@ def download_file(extension):
 			print "ERROR WHILE DOWNLOADING "+animal_name+extension
 
 def alphabet_java_cases():
+	'''
+	This function would write code for 26 (alphabets) new Java objects
+	'''
 	i = 97
 	j = 0
 	while i<123:
@@ -28,10 +31,12 @@ def alphabet_java_cases():
 		print code
 		i = i+1
 		j = j+1			
-			
-					
-def number_java_cases():
-	for i in range(0,52):
+							
+def number_java_cases(x):
+	'''
+	This function would write code for x new Java objects
+	'''
+	for i in range(0,x):
 		code = "case "+str(i)+":"+'\n'+'\t'+'object = new Object("{}",{},{})'.format(engine.number_to_words(i),"R.drawable."+engine.number_to_words(i).replace('-',''),"R.raw."+engine.number_to_words(i).replace('-',''))+';'+'\n'+'\t'+'break;'
 		print code
 
