@@ -1,14 +1,12 @@
 # Meow
-A simple, offline Android app that contain animal pictures, names, and sounds.
+A simple, offline Android app that contain alphabets, numbers, animal pictures, their names and sounds.
 
 #### About:
-This app is an Android version of one of the Google's toys that you can find by simply searching for 'Animal sounds'.
+This app is inspired by one of the Google's toys that you can find by simply searching for 'Animal sounds'.
 I scrapped off the audio and image files from the webpage, and placed them in an Android app for a kid.
 
-![whatsapp image 2019-01-30 at 12 40 50 pm](https://user-images.githubusercontent.com/30762976/51964397-78aaed80-248c-11e9-914a-aeb903576f8f.jpeg)
+Later on I made the use of Siri's voice and recorded the pronounciation of alphabets and numbers (Using python).
 
-##### Download APK (< 3 MB): [meow.apk](https://drive.google.com/uc?authuser=0&id=1SLeCPMZdUIr7Frmld9sh8fMff84cOfOa&export=download)
+![Screenshot](https://user-images.githubusercontent.com/30762976/52014385-6751f780-2505-11e9-8f66-81f900ce6c91.png)
 
-##### [ADD NEW](https://github.com/adarshpunj/Meow/blob/master/Android/java/com/github/meow/AnimalFragmentAdapter.java#L164)
-
-###### All of the media files I have used belong to Google.
+##### Download APK (4 MB): [meow-release.apk](https://drive.google.com/uc?authuser=0&id=1LP35CQMlnfscqbFMymqqERh_BS0ZNXoV&export=download)
