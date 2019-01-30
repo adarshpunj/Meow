@@ -6,7 +6,7 @@ animal_names = ['african-grey-parrot','alligator','ape','bat','bee',
 'buffalo','camel','cat','rooster','cow','crow','dog','duck','elephant',
 'frog','giraffe','horse','leopard','lion','moose','owl',
 'penguin','pig','rat','rattlesnake','rhinoceros','sheep','tiger',
-'wolf','zebra']
+'wolf','zebra','antelope','falcon','panda','rabbit','robin']
 
 def download_file(extension):
 	for animal_name in animal_names:
