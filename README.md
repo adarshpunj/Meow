@@ -9,7 +9,6 @@ I scrapped off the audio and image files from the webpage, and placed them in an
 
 ##### Download APK (< 3 MB): [meow.apk](https://drive.google.com/uc?authuser=0&id=1SLeCPMZdUIr7Frmld9sh8fMff84cOfOa&export=download)
 
-##### [Add a new animal!](https://github.com/adarshpunj/Meow/blob/master/Android/java/com/github/meow/AnimalFragmentAdapter.java#L164
-)
+##### [ADD NEW](https://github.com/adarshpunj/Meow/blob/master/Android/java/com/github/meow/AnimalFragmentAdapter.java#L164)
 
 ###### All of the media files I have used belong to Google.
