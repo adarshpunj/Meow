@@ -1,5 +1,5 @@
 # Meow
-A simple, offline Android app that contain alphabets, numbers, animal pictures, their names and sounds. A lot of code and data involved in the app was actually written and accumulated by a [Python script](https://github.com/adarshpunj/Meow/media.py)!
+A simple, offline Android app that contain alphabets, numbers, animal pictures, their names and sounds. A lot of code and data involved in the app was actually written and accumulated by this 👉🏻 [Python script](https://github.com/adarshpunj/Meow/blob/master/media.py)!
 
 #### About:
 This app is inspired by one of the Google's toys that you can find by simply searching for 'Animal sounds'.
